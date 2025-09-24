@@ -405,7 +405,7 @@ pre {
 }
 
 main > div {
-  margin: 40px 16px;
+  margin: 65px 16px 40px 16px;
 }
 
 input,
@@ -598,7 +598,7 @@ main > .section > div {
 }
 
 main > .section:first-of-type {
-  margin-top: 0;
+  margin-top: 25px;
 }
 
 @media (width >= 900px) {
